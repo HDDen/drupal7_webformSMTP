@@ -1,0 +1,4 @@
+name = D7 Webform SMTP Sender
+description = "Отправляет значения форм через SMTP, в дополнение к стандартному mail()"
+core = 7.x
+version = 1.0.0
